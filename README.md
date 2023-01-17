@@ -11,7 +11,6 @@
 
 ### Where I solve problems
 
-
 [![Codeforces](https://cp-logo.vercel.app/codeforces/shuvojr?logo=true)](https://codeforces.com/profile/shuvojr) <hr>
 
 ### Things I code with
