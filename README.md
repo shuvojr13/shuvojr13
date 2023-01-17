@@ -1,18 +1,18 @@
 # <h1 align="center">Hi, I'm Ahad Hossain 👋  </h1>
 ###  <div align="center"> I'm a Student, Programmer, Web Developer  ![profile views](https://komarev.com/ghpvc/?username=shuvojr13&color=red) </div>
  <div align="center"> 🔭 Studies in Information and Communication Technology </div>
- <br> 
+ <br><hr> 
 <h4 align="center">📫 How to reach me: </h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammad-shuvo/"><img src="https://img.shields.io/badge/-Ahad%20Hossain-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:shuvojr1379@gmail.com"><img src="https://img.shields.io/badge/-shuvojr1379@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
-</p>
+</p><hr>
 
 ### Where I solve problems
 
 
-[![Codeforces](https://cp-logo.vercel.app/codeforces/shuvojr?logo=true)](https://codeforces.com/profile/shuvojr)
+[![Codeforces](https://cp-logo.vercel.app/codeforces/shuvojr?logo=true)](https://codeforces.com/profile/shuvojr) <hr>
 
 ### Things I code with
 
@@ -24,9 +24,9 @@
 ![expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-<br>
+<hr><br>
 
- ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -46,7 +46,7 @@
 ![kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![sublime](https://img.shields.io/badge/sublime_text%20-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![nano](https://img.shields.io/badge/NANO%20-%2311AB00.svg?&style=for-the-badge&logo=nano&logoColor=white)
-![vscode](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white)
+![vscode](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white)<hr>
 
 ### Statistics
 <p align="center">
