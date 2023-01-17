@@ -2,7 +2,7 @@
 ###  <div align="center"> I'm a Student, Programmer, Web Developer  ![profile views](https://komarev.com/ghpvc/?username=shuvojr13&color=red) </div>
  <div align="center"> 🔭 Studies in Information and Communication Technology </div>
  <br><hr> 
-<h4 align="center">📫 How to reach me: </h4>
+<h2 align="center">📫 How to reach me: </h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammad-shuvo/"><img src="https://img.shields.io/badge/-Ahad%20Hossain-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:shuvojr1379@gmail.com"><img src="https://img.shields.io/badge/-shuvojr1379@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
