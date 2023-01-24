@@ -9,10 +9,12 @@
 
 </p><hr>
 
+
 ### Where I solve problems
 
 
-[![Codeforces](https://cp-logo.vercel.app/codeforces/shuvojr?logo=true)](https://codeforces.com/profile/shuvojr)<hr>
+[![Codeforces](https://cp-logo.vercel.app/codeforces/shuvojr?logo=true)](https://codeforces.com/profile/shuvojr)
+[![Badge](https://img.shields.io/badge/Code-Chef-blue)](https://www.codechef.com/users/shu_vo_14)<hr>
 
 ### Things I code with
 
