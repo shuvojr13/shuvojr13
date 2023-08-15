@@ -12,8 +12,8 @@
 <img align="right" width="200" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" alt="Coding"><br>
 
 ### Where I solve problems
-[![LeetCode user shuvojr1379](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Leetcode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fshuvojr1379&logo=leetcode&logoColor=yellow)](https://leetcode.com/shuvojr1379/)
-[![Codeforces](https://cp-logo.vercel.app/codeforces/shuvojr?logo=true)](https://codeforces.com/profile/shuvojr)
+[![LeetCode user shuvojr1379](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Leetcode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fshuvojr1379&logo=leetcode&logoColor=yellow)](https://leetcode.com/shuvojr1379/) <br>
+[![Codeforces](https://cp-logo.vercel.app/codeforces/shuvojr?logo=true)](https://codeforces.com/profile/shuvojr) <br>
 [![Badge](https://img.shields.io/badge/Code-Chef-blue)](https://www.codechef.com/users/shu_vo_14)<hr>
 
 ### Things I code with <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
