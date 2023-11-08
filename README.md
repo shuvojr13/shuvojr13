@@ -1,6 +1,6 @@
 # <h1 align="center">Hi, I'm Ahad Hossain 👋  </h1>
 ###  <div align="center"> I'm a Student, Programmer, Web Developer  ![profile views](https://komarev.com/ghpvc/?username=shuvojr13&color=red) </div>
- <div align="center"> 🔭 Studies in Information and Communication Technology </div>
+ <div align="center"> 🔭 Studies in Information and Communication Technology at Comilla University </div>
  <br><hr> 
 <h2 align="center">📫 How to reach me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"></h2>
 <p align="center">
