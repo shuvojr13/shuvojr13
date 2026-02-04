@@ -96,23 +96,18 @@ I love solving problems, building web applications, and learning new technologie
 ---
 
 ## 📊 GitHub Statistics
-<table align="center">
-<tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=shuvojr13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvojr13&layout=compact&theme=algolia" />
-</td>
-</tr>
-</table>
+<p align="center"> <a href="https://github.com/shuvojr13"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shuvojr13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shuvojr13&layout=compact&langs_count=8&theme=algolia"/> </a> </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuvojr13&theme=algolia"/>
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=shuvojr13&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+    alt="GitHub Streak"
+  />
 </p>
+
 
 ---
 
