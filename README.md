@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahad Hossain</h1>
 
 <h3 align="center">
-Student • Programmer • Web Developer
+Software Developer
 </h3>
 
 <p align="center">
